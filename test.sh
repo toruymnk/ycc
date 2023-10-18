@@ -22,4 +22,6 @@ assert 42 42
 
 assert 20 "8+16-4"
 
+assert 12 "4 + 16 - 8"
+
 echo OK
